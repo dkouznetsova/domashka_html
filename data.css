@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: 400px;
+  border:#2B413F 2px solid;
+  border-radius: 5px;
+  background-color: #DEF2C8;
+  margin-bottom: 20px;
+}
+
+input {
+  margin-left: calc((100% - 200px) / 2);
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+fieldset {
+  text-align: end;
+}
